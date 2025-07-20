@@ -10,3 +10,5 @@ def fetch_exchange_rates():
 
 if __name__ == "__main__":
     fetch_exchange_rates()
+
+
